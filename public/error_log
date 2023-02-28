@@ -1,0 +1,1 @@
+[04-Jan-2023 07:56:50 UTC] PHP Fatal error:  Trait "App\Libraries\Traits\UniqueSlug" not found in /home/dtimyid/public_html/vpnstunnel.d3ti2021.my.id/app/Http/Controllers/Admin/ServerController.php on line 13
